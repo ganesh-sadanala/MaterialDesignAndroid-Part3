@@ -6,7 +6,7 @@ import androidx.appcompat.widget.AppCompatTextView;
 import androidx.core.app.ActivityOptionsCompat;
 import androidx.core.util.Pair;
 
-import android.app.ActivityOptions;
+
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
